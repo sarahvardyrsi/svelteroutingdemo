@@ -107,7 +107,7 @@
 </style>
 <div id="navlinks">
   <h3>This is HomePage</h3>
-  <Link to="chat">chat</Link><br />
+  <Link to="chat">Chat</Link><br />
   <Link to="about">About</Link><br />
   <Link to="clock">Clock</Link>
 </div>
